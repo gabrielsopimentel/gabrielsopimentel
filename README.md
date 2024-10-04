@@ -1,11 +1,9 @@
 ## Gabriel Pimentel! 👋
 
-Sou formado em sistemas de informação e atualmente estudo .net e react em um bootcamp.
+Sou formado em sistemas de informação e atualmente estudo .net e react e curso Ciência da Computação.
 
 Meu objetivo atual é entender os conceitos principais do que eu uso e os bastidores.
 
-### 
-<a href="https://www.linkedin.com/in/gabrielsopimentel"><img title="LinkedIn" alt="LinkedIn" height="25" width="95" src="https://i.imgur.com/tNZDjFe.png"></a>
 
 ### Tecnologias
 <div style="display: inline_block" align="left">
