@@ -1,6 +1,6 @@
 ## Gabriel Pimentel! 👋
 
-Sou formado em sistemas de informação e atualmente estudo .net e react e curso Ciência da Computação.
+Sou formado em sistemas de informação e atualmente estudo .net e react e curso ciência da computação.
 
 Meu objetivo atual é entender os conceitos principais do que eu uso e os bastidores.
 
