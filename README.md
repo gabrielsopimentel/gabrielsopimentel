@@ -4,8 +4,10 @@ Sou formado em sistemas de informação e atualmente estudo .net e react e curso
 
 Meu objetivo atual é entender os conceitos principais do que eu uso e os bastidores.
 
+[Linkedin](https://www.linkedin.com/in/gabrielsopimentel/)
 
 ### Tecnologias
+
 <div style="display: inline_block" align="left">
   <img align="center" alt="HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
